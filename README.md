@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Sakshi</h1>
+
+<img align="center" src="sakshi-github-banner.png">
+
+## 👨‍💻 About Me
+|<p align="center">My name is <b>Sakshi Hardwani</b></p>|<img align="center" src="octoliberty.png" width="200px" height="200px"> |
+| ------- | -------- |
 
 <!--
 **Sakshi-Hardwani/Sakshi-Hardwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
