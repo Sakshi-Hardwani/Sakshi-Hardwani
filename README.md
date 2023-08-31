@@ -3,7 +3,7 @@
 <img align="center" src="sakshi-github-banner.png">
 
 ## 👨‍💻 About Me
-|<p align="center">My name is <b>Sakshi Hardwani</b></p>|<img align="center" src="octoliberty.png" width="200px" height="200px"> |
+|<p align="center">My name is <b>Sakshi Hardwani</b> and I am a Computer Science Engineering undergrad from India 🎓 | Data Alchemist | Exploring the depth of datasets and extracting insight 🔭 | Community contributor | Fostering inclusivity 👥 | Literature enthusiasts 📔 </p>|<img align="center" src="octoliberty.png" width="200px" height="200px"> |
 | ------- | -------- |
 
 <!--
